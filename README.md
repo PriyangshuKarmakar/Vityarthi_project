@@ -2,12 +2,12 @@
 VEHICLE PARKING MANAGEMENT SYSTEM
 ## Overview:
 Program to manage parking and vehicle details.
-## Feature:
-The features are as follows :
-1.Add parking and vehicle records
-2.Remove parking and vehicle records
-3.View parking and vehicle records
-4.Calculate parking charges
+## Features:
+The features of the Vehicle Parking Management System are as follows:
+1. Add parking and vehicle records
+2. Remove parking and vehicle records
+3. View parking and vehicle records
+4. Calculate parking charges
 ## Files:
 main.py - Starts the program
 menu.py - takes input from the user and gives output
